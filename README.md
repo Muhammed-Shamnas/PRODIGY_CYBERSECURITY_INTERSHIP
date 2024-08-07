@@ -5,7 +5,7 @@ This repository contains the tasks completed during my cybersecurity internship.
 ## Task 1: Caesar Cipher
 A Python program that can encrypt and decrypt text using the Caesar Cipher algorithm.
 
-![Task 1 Screenshot](task1/TASK_1_output.png)
+![Task 1 Screenshot](Task1/TASK_1_output.png)
 
 ## Task 2: Image Encryption
 A simple image encryption tool using pixel manipulation for encrypting and decrypting images.
